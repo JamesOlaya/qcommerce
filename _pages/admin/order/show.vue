@@ -484,5 +484,8 @@ export default {
   #pageActionscomponent .actions-content
     display none
   .q-page-container
-    padding 0 !important        
+    padding 0 !important   
+    .col-md-6
+      height auto !important
+      width 50% !important 
 </style>
